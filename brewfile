@@ -1,1 +1,61 @@
 
+# tap repositories and their packages
+
+tap homebrew/core
+brew ca-certificates
+brew lz4
+brew mackup
+brew mas
+brew mpdecimal
+brew openssl@3
+brew powerlevel10k
+brew python@3.14
+brew readline
+brew sqlite
+brew xz
+brew zsh-completions
+brew zstd
+
+tap homebrew/cask
+cask 1password
+cask appcleaner
+cask applite
+cask azookey
+cask bettertouchtool
+cask carbon-copy-cloner
+cask clipy
+cask codeedit
+cask coteditor
+cask coverload
+cask daisydisk
+cask deepl
+cask dropbox
+cask font-m+-nerd-font
+cask font-meslo-lg-nerd-font
+cask fontforge-app
+cask gimp
+cask github
+cask imageoptim
+cask karabiner-elements
+cask latest
+cask lyrics-master
+cask memory-cleaner
+cask microsoft-excel
+cask onyx
+cask pastebot
+cask qspace-pro
+cask responsively
+cask setapp
+cask showyedge
+cask splashtop-streamer
+cask syntax-highlight
+cask visual-studio-code
+cask vivaldi
+cask warp
+
+tap rcmdnk/file
+brew brew-file
+
+# App Store applications
+appstore 6753110395 Folder Quick Look (1.5)
+appstore 1660037028 PreviewText (1.0.9)
