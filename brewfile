@@ -59,3 +59,35 @@ brew brew-file
 # App Store applications
 appstore 6753110395 Folder Quick Look (1.5)
 appstore 1660037028 PreviewText (1.0.9)
+
+# VSCode extensions
+vscode akamud.vscode-theme-onedark
+vscode alefragnani.project-manager
+vscode anseki.vscode-color
+vscode atroxego.better-folding-plus
+vscode christian-kohler.path-intellisense
+vscode donjayamanne.githistory
+vscode ecmel.vscode-html-css
+vscode esbenp.prettier-vscode
+vscode formulahendry.auto-close-tag
+vscode formulahendry.auto-rename-tag
+vscode github.copilot
+vscode github.copilot-chat
+vscode github.remotehub
+vscode leodevbro.blockman
+vscode mhutchie.git-graph
+vscode ms-ceintl.vscode-language-pack-ja
+vscode ms-vscode.azure-repos
+vscode ms-vscode.live-server
+vscode ms-vscode.remote-repositories
+vscode oderwat.indent-rainbow
+vscode pranaygp.vscode-css-peek
+vscode progate.progate-assistant
+vscode ritwickdey.liveserver
+vscode shardulm94.trailing-spaces
+vscode tejasvi.rainbow-brackets-2
+vscode usernamehw.errorlens
+vscode vincaslt.highlight-matching-tag
+vscode visualstudioexptteam.intellicode-api-usage-examples
+vscode visualstudioexptteam.vscodeintellicode
+vscode vscode-icons-team.vscode-icons
