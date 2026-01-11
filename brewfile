@@ -31,6 +31,7 @@ cask coverload
 cask daisydisk
 cask deepl
 cask dropbox
+cask folder-preview-pro
 cask font-m+-nerd-font
 cask font-meslo-lg-nerd-font
 cask fontforge-app
